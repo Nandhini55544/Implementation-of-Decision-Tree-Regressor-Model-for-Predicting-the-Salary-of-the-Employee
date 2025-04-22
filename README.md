@@ -65,9 +65,13 @@ plt.show()
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/78704292-2755-4480-bf9b-420215cbde90)
+
 ![image](https://github.com/user-attachments/assets/62f059dc-a3cd-449b-8008-1266cd35eec6)
+
 ![image](https://github.com/user-attachments/assets/d816f8ac-6138-4499-8a95-6b08487a74cb)
+
 ![image](https://github.com/user-attachments/assets/06db34b7-e1ec-4fe8-8dc6-ccaf4ed30d64)
+
 ![image](https://github.com/user-attachments/assets/f1659b41-e1d4-46f1-a20f-8a58d912827f)
 
 
